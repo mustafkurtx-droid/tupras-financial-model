@@ -62,6 +62,6 @@ Excel dosyası 11 çalışma sayfasından oluşur:
 - `Model Kontrolleri` sayfası, temel model tutarlılığını takip etmek için eklenmiştir.
 - PDF dosyası, Excel modelinin paylaşım ve sunum odaklı çıktısıdır.
 
-## Sorumluluk Reddi
+## Not
 
-Bu depo eğitim, analiz ve dokümantasyon amacıyla paylaşılmıştır. İçerikte yer alan bilgiler yatırım tavsiyesi değildir. Finansal kararlar almadan önce kendi araştırmanızı yapmanız ve gerektiğinde lisanslı bir finansal danışmana başvurmanız önerilir.
+Bu çalışma eğitim ve analiz amacıyla paylaşılmıştır.
