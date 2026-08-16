@@ -1,13 +1,13 @@
 # TUPRS 3 Tablolu Finansal Model
 
-Bu depo, TUPRS için hazırlanmış doğrulanmış 3 tablolu finansal model dosyasını ve model çıktısının koyu tema PDF sunumunu içerir. Çalışma; varsayımlar, operasyonel metrikler, gelir tablosu, bilanço, nakit akışı, borç planı, özkaynak hareketi, DCF değerleme ve model kontrollerini tek bir Excel yapısı içinde bir araya getirir.
+Bu depo, TUPRS için hazırlanmış 3 tablolu finansal model dosyasını ve model çıktısının PDF sunumunu içerir. Çalışma; varsayımlar, operasyonel metrikler, gelir tablosu, bilanço, nakit akışı, borç planı, özkaynak hareketi, DCF değerleme ve model kontrollerini tek bir Excel yapısı içinde bir araya getirir.
 
 ## Depo İçeriği
 
 | Dosya | Açıklama |
 | --- | --- |
-| `tupras_3_tablolu_model_tr_bagli_dogrulanmis.xlsx` | TUPRS için hazırlanmış, birbirine bağlı finansal tabloları ve değerleme bölümlerini içeren Excel modeli. |
-| `TUPRS_koyu_tema_tam_dolgu_revize.pdf` | Model çıktısının koyu tema, tek sayfalık revize PDF sunumu. |
+| `TUPRS_finansal_model.xlsx` | TUPRS için hazırlanmış, birbirine bağlı finansal tabloları ve değerleme bölümlerini içeren Excel modeli. |
+| `TUPRS_model_sunumu.pdf` | Model çıktısının tek sayfalık PDF sunumu. |
 
 ## Modelin Kapsamı
 
@@ -30,7 +30,7 @@ Excel dosyası 11 çalışma sayfasından oluşur:
 ## Nasıl Kullanılır?
 
 1. Excel dosyasını indirin veya depoyu klonlayın.
-2. `tupras_3_tablolu_model_tr_bagli_dogrulanmis.xlsx` dosyasını Microsoft Excel, Google Sheets veya uyumlu bir elektronik tablo uygulamasıyla açın.
+2. `TUPRS_finansal_model.xlsx` dosyasını Microsoft Excel, Google Sheets veya uyumlu bir elektronik tablo uygulamasıyla açın.
 3. Önce `Varsayımlar` ve `Operasyonel Varsayımlar` sayfalarını inceleyin.
 4. Ana finansal tabloları `Gelir Tablosu`, `Bilanço` ve `Nakit Akış` sayfalarından takip edin.
 5. Değerleme çıktısı için `DCF Değerleme` sayfasını kontrol edin.
@@ -42,8 +42,8 @@ Excel dosyası 11 çalışma sayfasından oluşur:
 ```text
 .
 |-- README.md
-|-- TUPRS_koyu_tema_tam_dolgu_revize.pdf
-`-- tupras_3_tablolu_model_tr_bagli_dogrulanmis.xlsx
+|-- TUPRS_finansal_model.xlsx
+`-- TUPRS_model_sunumu.pdf
 ```
 
 ## Kullanım Alanları
